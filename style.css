@@ -1,0 +1,33 @@
+
+body{
+    /* @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap'); */
+    font-family: 'Oswald', sans-serif;
+}
+.banner{
+    background-image: url(./img/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card img{
+    height: 220px;
+}
+p{
+    font-size: 14px;
+    line-height: 14px;
+}
+.text img{
+    width: 380px;
+}
+.rounded img{
+    height: 150px;
+    text-align: center !important;
+}
+.footer{
+    background-image: url(./img/63659128.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
